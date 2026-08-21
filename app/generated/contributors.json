@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "repository": "Deshi-Startup/deshistartup",
-  "refreshedAt": "2026-08-20T04:38:46.912Z",
+  "refreshedAt": "2026-08-21T04:39:33.075Z",
   "totals": {
     "contributors": 4,
     "mergedPullRequests": 7
@@ -51,8 +51,8 @@
       "githubLogin": "anwarulislam",
       "profileUrl": "https://github.com/anwarulislam",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26295990?v=4&s=160",
-      "mergedPullRequestCount": 1,
-      "lastMergedAt": "2026-07-26T05:04:12.000Z"
+      "mergedPullRequestCount": 2,
+      "lastMergedAt": "2026-08-20T21:36:58.000Z"
     },
     {
       "displayName": "Sagar",
@@ -67,8 +67,8 @@
       "githubLogin": "shamirislam",
       "profileUrl": "https://github.com/shamirislam",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11095742?v=4&s=160",
-      "mergedPullRequestCount": 9,
-      "lastMergedAt": "2026-08-19T12:26:21.000Z"
+      "mergedPullRequestCount": 12,
+      "lastMergedAt": "2026-08-20T21:37:55.000Z"
     }
   ]
 }
