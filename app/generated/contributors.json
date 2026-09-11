@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
   "repository": "Deshi-Startup/deshistartup",
-  "refreshedAt": "2026-09-10T08:43:53.219Z",
+  "refreshedAt": "2026-09-11T08:42:18.191Z",
   "totals": {
-    "contributors": 4,
-    "mergedPullRequests": 7
+    "contributors": 5,
+    "mergedPullRequests": 9
   },
   "unattributedCount": 0,
   "rankedProfiles": [
@@ -18,13 +18,22 @@
       "rank": 1
     },
     {
+      "displayName": "sajidhasan054",
+      "githubLogin": "sajidhasan054",
+      "profileUrl": "https://github.com/sajidhasan054",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20189815?v=4&s=160",
+      "mergedPullRequestCount": 2,
+      "lastMergedAt": "2026-09-10T23:55:08.000Z",
+      "rank": 2
+    },
+    {
       "displayName": "Uttam Deb",
       "githubLogin": "uttamdeb",
       "profileUrl": "https://github.com/uttamdeb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/105539415?v=4&s=160",
       "mergedPullRequestCount": 2,
       "lastMergedAt": "2026-08-01T16:20:50.000Z",
-      "rank": 2
+      "rank": 3
     },
     {
       "displayName": "M9S4K",
@@ -33,7 +42,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/20677421?v=4&s=160",
       "mergedPullRequestCount": 1,
       "lastMergedAt": "2026-08-18T13:07:32.000Z",
-      "rank": 3
+      "rank": 4
     },
     {
       "displayName": "Muhaiminul Islam Khan",
@@ -42,7 +51,7 @@
       "avatarUrl": null,
       "mergedPullRequestCount": 1,
       "lastMergedAt": "2026-08-10T21:59:38.000Z",
-      "rank": 4
+      "rank": 5
     }
   ],
   "coreProfiles": [
