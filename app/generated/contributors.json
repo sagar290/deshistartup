@@ -1,13 +1,22 @@
 {
   "schemaVersion": 2,
   "repository": "Deshi-Startup/deshistartup",
-  "refreshedAt": "2026-09-11T08:42:18.191Z",
+  "refreshedAt": "2026-09-12T08:27:47.670Z",
   "totals": {
     "contributors": 5,
-    "mergedPullRequests": 9
+    "mergedPullRequests": 10
   },
   "unattributedCount": 0,
   "rankedProfiles": [
+    {
+      "displayName": "sajidhasan054",
+      "githubLogin": "sajidhasan054",
+      "profileUrl": "https://github.com/sajidhasan054",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20189815?v=4&s=160",
+      "mergedPullRequestCount": 3,
+      "lastMergedAt": "2026-09-11T10:59:43.000Z",
+      "rank": 1
+    },
     {
       "displayName": "Niloy Biswas",
       "githubLogin": "niloy-biswas",
@@ -15,15 +24,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/28513863?v=4&s=160",
       "mergedPullRequestCount": 3,
       "lastMergedAt": "2026-08-01T22:30:58.000Z",
-      "rank": 1
-    },
-    {
-      "displayName": "sajidhasan054",
-      "githubLogin": "sajidhasan054",
-      "profileUrl": "https://github.com/sajidhasan054",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20189815?v=4&s=160",
-      "mergedPullRequestCount": 2,
-      "lastMergedAt": "2026-09-10T23:55:08.000Z",
       "rank": 2
     },
     {
