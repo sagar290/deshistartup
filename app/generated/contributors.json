@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "repository": "Deshi-Startup/deshistartup",
-  "refreshedAt": "2026-09-19T08:38:55.786Z",
+  "refreshedAt": "2026-09-20T09:08:55.591Z",
   "totals": {
     "contributors": 5,
     "mergedPullRequests": 10
@@ -76,8 +76,8 @@
       "githubLogin": "shamirislam",
       "profileUrl": "https://github.com/shamirislam",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11095742?v=4&s=160",
-      "mergedPullRequestCount": 18,
-      "lastMergedAt": "2026-09-14T13:17:18.000Z"
+      "mergedPullRequestCount": 19,
+      "lastMergedAt": "2026-09-20T00:08:40.000Z"
     }
   ]
 }
